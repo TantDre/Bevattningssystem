@@ -1,3 +1,3 @@
 # Bevattningssystem
 Bevattningssystem för hemmet 
-![Flödesschema](Bevattningssystem/Flödesschema.png)
+![Flödesschema](https://github.com/TantDre/Bevattningssystem/blob/master/Fl%C3%B6desschema.png?raw=true)
