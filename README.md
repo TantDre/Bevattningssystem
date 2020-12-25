@@ -1,5 +1,5 @@
 # Bevattningssystem  
-Bevattningssystem för växter med loggning.
+Bevattningssystem för växter med extern loggning.
   
 # Version  
 v1: Av och på reglering med bevattningstid som styrsignal
